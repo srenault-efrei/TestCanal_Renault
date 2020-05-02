@@ -1,0 +1,56 @@
+.content{
+text-align: center;
+}
+
+.title {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.card{
+  display: inline-block !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  max-width: 300px;
+}
+
+.card:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  zoom: 1;
+}
+
+.card-title{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+.card-text{
+  font-size: 13px;
+}
+
+.card-genres{
+  font-size: 13px;
+  font-style: italic;
+  vertical-align: "center";
+}
+
+.div-genres{
+  min-height: 70px;
+}
+
+.input{
+  width: 300px !important;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.label-select{
+  margin-right: 30px;
+}
+
