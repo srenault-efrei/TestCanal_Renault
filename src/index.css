@@ -1,11 +1,16 @@
+body{
+  background-color: black;
+}
+
 .content{
 text-align: center;
 }
 
 .title {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 5px;
   font-weight: bold;
+  color:white
 }
 
 .card{
@@ -52,5 +57,10 @@ text-align: center;
 
 .label-select{
   margin-right: 30px;
+  color: white
 }
 
+.popularity {
+  font-weight: bold;
+  color: gray
+}
